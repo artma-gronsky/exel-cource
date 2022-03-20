@@ -1,1 +1,2 @@
-console.log('Module js!');
+console.log('Module js!')
+

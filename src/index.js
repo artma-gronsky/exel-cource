@@ -1,4 +1,4 @@
 import './module'
-import './index.scss';
+import './scss/index.scss';
 
-console.log(process.env.NODE_ENV);
+console.log(process.env.NODE_ENV)
